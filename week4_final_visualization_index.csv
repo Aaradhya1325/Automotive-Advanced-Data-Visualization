@@ -1,0 +1,10 @@
+Figure,Visualization,Primary_Purpose
+Figure 1,"Engine Size, Horsepower and Curb Weight vs Price",Identify the vehicle characteristics most strongly associated with price
+Figure 2,Highway MPG vs Price by Fuel Type,Examine the relationship between fuel economy and market positioning
+Figure 3,Price Distribution by Body Style,Compare price distributions across body styles
+Figure 4,Manufacturer Price Positioning,Benchmark manufacturer-level price positioning
+Figure 5,Horsepower vs Highway MPG Trade-off,Evaluate the performance-efficiency trade-off
+Figure 6,Automotive Feature Correlation Heatmap,Provide a consolidated view of relationships among key variables
+Figure 7,Manufacturer Price–Performance Positioning Map,Compare manufacturers across price and performance dimensions
+Figure 8,Budget vs Premium Segment Profile,Compare vehicle characteristics across market segments
+Figure 9,Budget to Premium Percentage Change,Summarize the magnitude of Budget-to-Premium differences
